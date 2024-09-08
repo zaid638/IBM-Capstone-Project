@@ -1,5 +1,4 @@
 # Technology Trends Analysis
 
-his project demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating
-visualizations & interactive dashboards, and presenting reports to
-share findings of data analysis
+This project demonstrated proficiency in applying different Analytical techniques by Analyzing Real-world Datasets, creating
+Visualizations & interactive Dashboards, and Presenting Reports to  share findings of Data Analysis.
