@@ -1,8 +1,9 @@
 # Technology Trends Analysis
 <br />
 
-This project demonstrated proficiency in applying different Analytical techniques by Analyzing Real-world Datasets, creating
+This project demonstrated proficiency in applying different Analytical techniques by Analyzing Job Dataset, creating
 Visualizations & interactive Dashboards, and Presenting Report to  share findings of Data Analysis.
+[Data Set](https://www.kaggle.com/datasets/promptcloud/jobs-on-naukricom)
 <br /><br />
 
 ## Methodology
