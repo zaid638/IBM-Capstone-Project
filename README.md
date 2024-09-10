@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/469e59e6-5b46-4509-8207-d4f4776b63d9)# Technology Trends Analysis
+# Technology Trends Analysis
 <br />
 
 This project demonstrated proficiency in applying different Analytical techniques by Analyzing Real-world Datasets, creating
@@ -8,14 +8,14 @@ Visualizations & interactive Dashboards, and Presenting Report to  share finding
 ## Methodology
 <br />
 
-* **Data Collection**
+**Data Collection**
 <br />
 
   - Our primary data source is internet. Collect our data through under open database license.
 [Data Collection](https://github.com/zaid638/IBM-Capstone-Project/tree/6689b746b651a9f6eecf241b7653ee682e45b449/Data%20Collection)
 <br />
 
-* **Data Analysis**
+**Data Analysis**
 <br />
 
   - Include cleaning process. Removing duplicates, addressing missing values, and standardizing data formats to ensure consistency and accuracy.
@@ -24,7 +24,7 @@ Visualizations & interactive Dashboards, and Presenting Report to  share finding
 [Exploratory Data Analysis](https://github.com/zaid638/IBM-Capstone-Project/tree/809d7420f27c6f8a6f4b1e1a592dba444c1d0574/Exploratory%20Data%20Analysis)
 <br />
 
-* **Trend Identification and Classification**
+**Trend Identification and Classification**
 <br />
 
   - Technology trends were categorized based on their primary domains, such as top languages, databases, platforms,web frameworks.
