@@ -66,10 +66,13 @@ Visualizations & interactive Dashboards, and Presenting Report to  share finding
 
 *	The findings of this analysis offer valuable insights into the trends shaping the technological landscape in programming language, databases, platforms, web frameworks sectors. 
 <br />
+
 *	the most used languages in future are changes with current using languages. new languages are trending in future and some of the languages are not likely using in future.
 <br />
-*	the most used databases in future are changes with current using databases. new databases are trending in future and some of the databases are not likely using in future. <br />
+
+*	the most used databases in future are changes with current using databases. new databases are trending in future and some of the databases are not likely using in future.
 <br />
+
 * there is no difference in platform used in current and future trends and JavaScript based webframworks like reactjs, angularjs are mostly used in future
 <br /><br />
 
