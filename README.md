@@ -8,7 +8,7 @@ Visualizations & interactive Dashboards, and Presenting Report to  share finding
 ## Methodology
 <br />
 
-* [**Data Collection**](/DataCollection)
+* [**Data Collection**]([/DataCollection](https://github.com/zaid638/IBM-Capstone-Project/tree/13e84dfb15270c3f29a6ebd9947821302dbd77e8/Data%20Collection))
   - Our primary data source is internet. Collect our data through under open database license.
 <br />
 
