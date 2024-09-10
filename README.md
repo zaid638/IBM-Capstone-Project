@@ -8,11 +8,12 @@ Visualizations & interactive Dashboards, and Presenting Report to  share finding
 ## Methodology
 <br />
 
-* [Data Collection](https://github.com/zaid638/IBM-Capstone-Project/tree/13e84dfb15270c3f29a6ebd9947821302dbd77e8/Data%20Collection)
+* **Data Collection**
   - Our primary data source is internet. Collect our data through under open database license.
+[[Data Collection](https://github.com/zaid638/IBM-CapstoneProject/tree/13e84dfb15270c3f29a6ebd9947821302dbd77e8/Data%20Collection)]
 <br />
 
-* Data Analysis
+* **Data Analysis**
   - Include cleaning process. Removing duplicates, addressing missing values, and standardizing data formats to ensure consistency and accuracy.
   - Initial data analysis involved descriptive statistics, summarizing key characteristics. Employed statistical analysis techniques such as correlation analysis.
 <br />
