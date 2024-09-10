@@ -8,7 +8,7 @@ Visualizations & interactive Dashboards, and Presenting Report to  share finding
 ## Methodology
 <br />
 
-* [**Data Collection**](/Data Collection)
+* [**Data Collection**](/DataCollection)
   - Our primary data source is internet. Collect our data through under open database license.
 <br />
 
